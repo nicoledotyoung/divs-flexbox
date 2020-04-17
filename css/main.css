@@ -108,6 +108,18 @@ body {
   height: 100%;
 }
 
+.full-width {
+    color: #fff;
+    width: 100%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    
+}
+#intro {
+    font-family: serif;
+}
+
 .wrapper {
   /*add display:flex and set justify-content to space-between*/
   font-weight: 400;
